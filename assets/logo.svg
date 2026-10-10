@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="ScamShield AI logo">
+  <defs>
+    <linearGradient id="g" x1="8" y1="4" x2="56" y2="60" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8b7cff"/>
+      <stop offset="1" stop-color="#3b8cff"/>
+    </linearGradient>
+  </defs>
+  <path d="M32 4 55 12v18c0 14.5-9.6 24.2-23 29C18.6 54.200 9 44.500 9 30V12z" fill="url(#g)"/>
+  <path d="M32 11 49 17v13c0 10.800-6.800 18.400-17 22.400C21.800 48.400 15 40.800 15 30V17z" fill="#0b1020" fill-opacity=".55"/>
+  <rect x="21" y="23" width="22" height="14" rx="3" fill="none" stroke="#e8ecf8" stroke-width="2.600"/>
+  <path d="M21.500 25.500 32 32.500l10.500-7" fill="none" stroke="#e8ecf8" stroke-width="2.600" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="44" cy="39" r="7" fill="#34d399"/>
+  <path d="m40.600 39 2.400 2.400 4.200-4.600" fill="none" stroke="#06231a" stroke-width="2.400" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
