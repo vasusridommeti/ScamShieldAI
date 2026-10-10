@@ -1,5 +1,11 @@
 # ScamShield AI
 
+## 🚀 Live Demo
+
+Try the website: [ScamShield AI](https://stately-rabanadas-b2d990.netlify.app)
+
+# ScamShield AI
+
 **Smart Digital Scam Detection Assistant.** Paste a suspicious SMS, email or chat message and ScamShield AI shows an illustrative risk score (0 to 100), marks the suspicious phrases, explains why each one matters, and suggests what to do next.
 
 It is a **rule-based scam-awareness engine**, not a trained AI model. It runs 100% in your browser: no API key, no server, no message ever leaves your device.
